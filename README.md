@@ -9,15 +9,15 @@ Input:  paragraph = "Bob hit a ball, the hit BALL flew far after it was hit." ba
  
 Note:
 
-•	1 <= paragraph.length <= 1000.
+-	1 <= paragraph.length <= 1000.
 
-•	0 <= banned.length <= 100.
+-	0 <= banned.length <= 100.
 
-•	1 <= banned[i].length <= 10.
+-	1 <= banned[i].length <= 10.
 
-•	The answer is unique, and written in lowercase (even if its occurrences in paragraph may have uppercase symbols, and even if it is a proper noun.)
-•	paragraph only consists of letters, spaces, or the punctuation symbols !?',;.
+-	The answer is unique, and written in lowercase (even if its occurrences in paragraph may have uppercase symbols, and even if it is a proper noun.)
+-	paragraph only consists of letters, spaces, or the punctuation symbols !?',;.
 
-•	There are no hyphens or hyphenated words.
+-	There are no hyphens or hyphenated words.
 
-•	Words only consist of letters, never apostrophes or other punctuation symbols.
+-	Words only consist of letters, never apostrophes or other punctuation symbols.
