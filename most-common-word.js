@@ -3,7 +3,7 @@
  * @param {string[]} banned
  * @return {string}
  * 
- * This function returns the most common word in the paragraph where the word in the in the list of banned words.
+ * This function returns the most common word in the paragraph where the word is not in the list of banned words.
  *
  */
 var mostCommonWord = function(paragraph, banned) {
